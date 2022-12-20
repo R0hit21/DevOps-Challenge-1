@@ -30,8 +30,6 @@ object = {“x”:{“y”:{“z”:”a”}}}
 key = x/y/z
 value = a
 
-Hints:
-We would like to see some tests. 
-A quick read to help you along the way - We would expect it in any other language apart from elixir.
+
 
 
